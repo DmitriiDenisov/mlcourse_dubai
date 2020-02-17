@@ -6,9 +6,9 @@
   <img src="https://github.com/DmitriiDenisov/mlcourse_dubai/blob/master/df-dubai-logo.png" width="300" alt="accessibility text">
 </p>
 
-**[mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course in Dubai**
+**[mlcourse.ai](https://mlcourse.ai) – All materials for Open Machine Learning Course in Dubai**
 
-[![Slack](https://img.shields.io/badge/slack-ods.ai-orange)](https://opendatascience.slack.com/archives/C91N8TL83/p1567408586359500)
+[![Slack](https://img.shields.io/badge/slack-ods.ai-green)]()
 
 </div>
   
