@@ -38,7 +38,9 @@ All lectures will be covered by tutors with the practical experience from Reacto
 
 ### Sources
 Website: mlcourse.ai
+
 All articles can be found on [medium](https://medium.com/open-machine-learning-course)
+
 Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 
 
