@@ -49,4 +49,4 @@ Website: [mlcourse.ai](https://mlcourse.ai)
 
 All articles can be found on [medium](https://medium.com/open-machine-learning-course)
 
-Videolectures by Yury Kaahnitsky are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
+Videolectures by Yury Kashnitsky are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
