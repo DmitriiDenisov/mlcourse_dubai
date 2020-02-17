@@ -18,7 +18,7 @@
 The course starts on 18th of February. The event will be hold by Hult International Business School.
 All lectures will be covered by tutors with the practical experience from Reactor, FICO, Deloitte, VISA, American University of Sharjah.
 
-### Lectures
+### Schedule of Lectures
 0. Introduction, 18.02.2020
 1. Exploratory Data Analysis with Pandas, 25.02.2020
 2. Visual Data Analysis with Python
