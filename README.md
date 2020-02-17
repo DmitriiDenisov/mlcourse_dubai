@@ -9,6 +9,7 @@
 **Open Machine Learning Course in Dubai**
 
 [![Slack](https://img.shields.io/badge/slack-ods.ai-green)]()
+[![Meetup.com](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)]()
 
 </div>
   
