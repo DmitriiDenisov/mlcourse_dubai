@@ -18,9 +18,7 @@
 The course starts on 18th of February. The event will be hold by Hult International Business School.
 All lectures will be covered by tutors with the practical experience from Reactor, FICO, Deloitte, VISA, American University of Sharjah.
 
-### Articles
-This is the list of published articles on medium.com [:uk:](https://medium.com/open-machine-learning-course)
-
+### Lectures
 0. Introduction, 18.02.2020
 1. Exploratory Data Analysis with Pandas, 25.02.2020
 2. Visual Data Analysis with Python
@@ -33,20 +31,6 @@ This is the list of published articles on medium.com [:uk:](https://medium.com/o
 9. Time Series Analysis with Python
 10. Gradient Boosting and CatBoost
 
-### Video Lectures
-
-0. Introduction
-1. Exploratory data analysis with Pandas
-2. Visualization, main plots for EDA
-3. Decision trees
-4. Logistic regression
-5. Ensembles and Random Forest
-6. Linear regression and regularization
-7. Unsupervised learning
-8. Stochastic Gradient Descent for classification and regression
-9. Time series analysis with Python (ARIMA, Prophet)
-10. Gradient boosting: basic ideas, key ideas behind Xgboost, LightGBM, and CatBoost
-
 ### Assignments
 
 
@@ -54,7 +38,7 @@ This is the list of published articles on medium.com [:uk:](https://medium.com/o
 
 ### Sources
 Website: mlcourse.ai
-All articles: 
+All articles can be found on [medium](https://medium.com/open-machine-learning-course)
 Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 
 
