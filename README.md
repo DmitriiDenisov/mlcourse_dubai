@@ -55,7 +55,6 @@ Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 
 
 ### Community
-Discussions are held in the **#mlcourse_ai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
-
-*The course is free but you can support organizers by making a pledge on [Patreon](https://www.patreon.com/ods_mlcourse) (monthly support) or a one-time payment on [Ko-fi](https://ko-fi.com/mlcourse_ai). Thus you'll foster the spread of Machine Learning in the world!*
+Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
+Fill in this [form]() to get invitation to the channel 
 
