@@ -6,15 +6,17 @@
   <img src="https://github.com/DmitriiDenisov/mlcourse_dubai/blob/master/df-dubai-logo.png" width="300" alt="accessibility text">
 </p>
 
-**[mlcourse.ai](https://mlcourse.ai) – All materials for Open Machine Learning Course in Dubai**
+**Open Machine Learning Course in Dubai**
 
 [![Slack](https://img.shields.io/badge/slack-ods.ai-green)]()
 
 </div>
   
-[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience](https://ods.ai/en/). The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course. From spring 2017 to fall 2019, 6 sessions of mlcourse.ai took place - 26k participants applied, 10k converted to passing the first assignment, about 1500 participants finished the course. Currently, the course is in self-paced mode. A thorough roadmap guiding you through the self-paced mlcourse.ai will be published in February, 2020. 
+[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience](https://ods.ai/en/). The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course. From spring 2017 to fall 2019, 6 sessions of mlcourse.ai took place - 26k participants applied, 10k converted to passing the first assignment, about 1500 participants finished the course. It’s a great opportunity to get a dive into the Data Science world.
 
-Mirrors (:uk:-only): [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Kernels)
+
+The course starts on 18th of February. The event will be hold by Hult International Business School.
+All lectures will be covered by tutors with the practical experience from Reactor, FICO, Deloitte, VISA, American University of Sharjah.
 
 ### Articles
 This is the list of published articles on medium.com [:uk:](https://medium.com/open-machine-learning-course)
@@ -51,6 +53,8 @@ This is the list of published articles on medium.com [:uk:](https://medium.com/o
 ### Kaggle competitions
 
 ### Sources
+Website: mlcourse.ai
+All articles: 
 Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 
 
