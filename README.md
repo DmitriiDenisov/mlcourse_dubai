@@ -36,15 +36,17 @@ All lectures will be covered by tutors with the practical experience from Reacto
 
 ### Kaggle competitions
 
+
+### Community
+Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
+
+Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
+Fill in this [form]() to get invitation to the channel 
+
 ### Sources
 Website: [mlcourse.ai](https://mlcourse.ai)
 
 All articles can be found on [medium](https://medium.com/open-machine-learning-course)
 
 Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
-
-
-### Community
-Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
-Fill in this [form]() to get invitation to the channel 
 
