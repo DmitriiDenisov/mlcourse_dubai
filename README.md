@@ -3,7 +3,7 @@
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
 <p align="center">
-  <img src="https://github.com/DmitriiDenisov/mlcourse_dubai/blob/master/df-dubai-logo.png" width="900" alt="accessibility text">
+  <img src="https://github.com/DmitriiDenisov/mlcourse_dubai/blob/master/df-dubai-logo.png" width="500" alt="accessibility text">
 </p>
 
 **[mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course in Dubai**
