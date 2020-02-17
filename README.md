@@ -37,7 +37,7 @@ All lectures will be covered by tutors with the practical experience from Reacto
 ### Kaggle competitions
 
 ### Sources
-Website: [mlcourse.ai](mlcourse.ai)
+Website: [mlcourse.ai](https://mlcourse.ai)
 
 All articles can be found on [medium](https://medium.com/open-machine-learning-course)
 
