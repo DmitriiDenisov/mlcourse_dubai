@@ -2,6 +2,10 @@
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
+<p align="center">
+  <img src="https://github.com/DmitriiDenisov/mlcourse_dubai/blob/master/df-dubai-logo.png" width="900" alt="accessibility text">
+</p>
+
 **[mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course in Dubai**
 
 [![Slack](https://img.shields.io/badge/slack-ods.ai-orange)](https://opendatascience.slack.com/archives/C91N8TL83/p1567408586359500)
