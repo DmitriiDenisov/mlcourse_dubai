@@ -28,6 +28,11 @@ All lectures will be covered by tutors with the practical experience from Reacto
 9. SGD with Vowpal Wabbit, 22.04.2020
 10. Gradient Boosting and CatBoost, 29.04.2020
 
+### Students ratings
+
+Ratings are updated after each assignment. The link can be found here - https://docs.google.com/spreadsheets/d/1pbfhIyDURLiLWVHZGWAPC_g9l7DHSmQb2v7mrvKzmPc/edit?usp=sharing
+
+
 ### Calendar and Deadlines
 
 Current deadlines (see also the assignments page):
