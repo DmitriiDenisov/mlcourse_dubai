@@ -1,7 +1,5 @@
 <div align="center">
 
-![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
-
 <p align="center">
   <img src="https://github.com/DmitriiDenisov/mlcourse_dubai/blob/master/img/df-dubai-logo.png" width="300" alt="accessibility text">
 </p>
@@ -13,9 +11,7 @@
 
 </div>
   
-[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience](https://ods.ai/en/). The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course. From spring 2017 to fall 2019, 6 sessions of mlcourse.ai took place - 26k participants applied, 10k converted to passing the first assignment, about 1500 participants finished the course. It’s a great opportunity to get a dive into the Data Science world.
-
-
+This is repository with all meterials for ML course in Dubai which is held in spring 2020. The course is orginised with support from Open Data Science community.
 The course starts on 19th of February. The event will be hold by Hult International Business School.
 All lectures will be covered by tutors with the practical experience from Reactor, FICO, Deloitte, VISA, American University of Sharjah.
 
@@ -32,8 +28,17 @@ All lectures will be covered by tutors with the practical experience from Reacto
 9. SGD with Vowpal Wabbit, 22.04.2020
 10. Gradient Boosting and CatBoost, 29.04.2020
 
-### Assignments
+### Calendar and Deadlines
 
+Current deadlines (see also the assignments page):
+
+All deadlines are 23:59 (Dubai time).
+
+### Assignments
+Assignments are announced in the **#mlcourse_dubai** channel in ODS Slack team (pinned items). Also, links to fresh assignments are provided in the Readme file of the course repository. Apart from that, you can practice with demo assignments, don’t confuse them with “real” ones
+
+### Quizzes & Live sessions
+Quizzes are intended to check your understanding of theory behind the applied approaches. Will be announced in the #mlcourse_dubai channel as well.
 
 ### Kaggle competitions
 
@@ -43,10 +48,3 @@ Our community website with all [events](https://www.meetup.com/Dubai-Data-Scienc
 
 Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
 Fill in this [form]() to get invitation to the channel 
-
-### Sources
-Website: [mlcourse.ai](https://mlcourse.ai)
-
-All articles can be found on [medium](https://medium.com/open-machine-learning-course)
-
-Videolectures by Yury Kashnitsky are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
