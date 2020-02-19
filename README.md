@@ -32,16 +32,22 @@ All lectures will be covered by tutors with the practical experience from Reacto
 
 Current deadlines (see also the assignments page):
 
+TBA
+
 All deadlines are 23:59 (Dubai time).
 
 ### Assignments
 Assignments are announced in the **#mlcourse_dubai** channel in ODS Slack team (pinned items). Also, links to fresh assignments are provided in the Readme file of the course repository. Apart from that, you can practice with demo assignments, don’t confuse them with “real” ones
 
+TBA
+
 ### Quizzes & Live sessions
 Quizzes are intended to check your understanding of theory behind the applied approaches. Will be announced in the #mlcourse_dubai channel as well.
 
-### Kaggle competitions
+TBA
 
+### Kaggle competitions
+TBA
 
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
