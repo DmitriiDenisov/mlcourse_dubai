@@ -44,7 +44,7 @@ All deadlines are 23:59 (Dubai time).
 ### Assignments
 Assignments are announced in the **#mlcourse_dubai** channel in ODS Slack team (pinned items). Also, links to fresh assignments are provided in the Readme file of the course repository. Apart from that, you can practice with demo assignments, don’t confuse them with “real” ones
 
-TBA
+A1. Pandas and data analysis. **Deadline: 03.03.2020 23:59**
 
 ### Quizzes & Live sessions
 Quizzes are intended to check your understanding of theory behind the applied approaches. Will be announced in the #mlcourse_dubai channel as well.
