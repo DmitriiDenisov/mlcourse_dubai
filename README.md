@@ -37,7 +37,7 @@ Ratings are updated after each assignment. The link can be found here - https://
 
 Current deadlines (see also the assignments page):
 
-TBA
+A1. Pandas and data analysis. **Deadline: 03.03.2020 23:59**
 
 All deadlines are 23:59 (Dubai time).
 
