@@ -57,5 +57,5 @@ TBA
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
 
-Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/en/) Slack team.
+Discussions are held in the **#mlcourse_dubai** channel of the [OpenDataScience (ods.ai)](https://ods.ai/) Slack team.
 Fill in this [form](http://forms.gle/XTvhyNhuevV1QV3F8) to get invitation to the channel 
