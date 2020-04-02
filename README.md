@@ -19,8 +19,8 @@ All lectures will be covered by tutors with the practical experience from Reacto
 0. Introduction, 19.02.2020
 1. Exploratory Data Analysis with Pandas, 25.03.2020
 2. Visual Data Analysis with Python, 01.04.2020
-3. Decision Trees
-4. Logistic Regression
+3. Decision Trees, 08.04.2020
+4. Logistic Regression, 15.04.2020
 5. Ensembles and Random Forest
 6. Linear regression and regularization
 7. Unsupervised Learning: Principal Component Analysis and Clustering
@@ -37,6 +37,7 @@ Ratings are updated after each assignment. The link can be found here - https://
 Assignments are announced in the **#mlcourse_dubai** channel in ODS Slack team (pinned items). Also, links to fresh assignments are provided in the Readme file of the course repository. Apart from that, you can practice with demo assignments, don’t confuse them with “real” ones
 
 A1. Pandas and data analysis 31.03.2020
+
 A2. Visualization 07.04.2020
 
 All deadlines are 23:59 (Dubai time).
