@@ -49,11 +49,8 @@ TBA
 
 ### Kaggle competitions
 
-1. Decision Trees and KNN:
+1. Decision Trees and KNN: https://www.kaggle.com/c/ods-mlclass-dubai-2019-03-lecture3-hw **Deadline: 30.04.2020**
 
-https://www.kaggle.com/c/ods-mlclass-dubai-2019-03-lecture3-hw
-
-**Deadline: 30.04.2020**
 
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
