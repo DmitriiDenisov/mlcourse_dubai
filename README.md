@@ -48,7 +48,12 @@ Quizzes are intended to check your understanding of theory behind the applied ap
 TBA
 
 ### Kaggle competitions
-TBA
+
+1. Decision Trees and KNN:
+
+https://www.kaggle.com/c/ods-mlclass-dubai-2019-03-lecture3-hw
+
+**Deadline: 30.04.2020**
 
 ### Community
 Our community website with all [events](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
