@@ -40,6 +40,8 @@ A1. Pandas and data analysis 31.03.2020
 
 A2. Visualization 07.04.2020
 
+A4. Linear Regression 23.04.2020
+
 All deadlines are 23:59 (Dubai time).
 
 ### Quizzes & Live sessions
