@@ -28,6 +28,10 @@ All lectures will be covered by tutors with the practical experience from Reacto
 9. SGD with Vowpal Wabbit
 10. Gradient Boosting and CatBoost
 
+### Video Recordings:
+
+https://bit.ly/3csuc0g
+
 ### Students ratings
 
 Ratings are updated after each assignment. The link can be found here - https://docs.google.com/spreadsheets/d/1pbfhIyDURLiLWVHZGWAPC_g9l7DHSmQb2v7mrvKzmPc/edit?usp=sharing
