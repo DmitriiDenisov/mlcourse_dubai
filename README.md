@@ -21,9 +21,9 @@ All lectures will be covered by tutors with the practical experience from Reacto
 2. Visual Data Analysis with Python, 01.04.2020
 3. Decision Trees, 08.04.2020
 4. Logistic Regression, 15.04.2020
-5. Ensembles and Random Forest
-6. Linear regression and regularization
-7. Unsupervised Learning: Principal Component Analysis and Clustering
+5. Ensembles and Random Forest 22.04.2020
+6. Linear regression and regularization 29.04.2020
+7. Unsupervised Learning: Principal Component Analysis and Clustering 06.04.2020
 8. Time Series Analysis with Python
 9. SGD with Vowpal Wabbit
 10. Gradient Boosting and CatBoost
