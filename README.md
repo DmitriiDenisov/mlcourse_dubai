@@ -48,11 +48,6 @@ A4. Linear Regression 23.04.2020
 
 All deadlines are 23:59 (Dubai time).
 
-### Quizzes & Live sessions
-Quizzes are intended to check your understanding of theory behind the applied approaches. Will be announced in the #mlcourse_dubai channel as well.
-
-TBA
-
 ### Kaggle competitions
 
 1. [Decision Trees and KNN](https://www.kaggle.com/c/ods-mlclass-dubai-2019-03-lecture3-hw) **Deadline: 30.04.2020**
