@@ -8,6 +8,7 @@
 
 [![Slack](https://img.shields.io/badge/slack-ods.ai-green)](https://docs.google.com/forms/d/e/1FAIpQLSd5JX9NCguEe4GKHLl01oee-6019VL0hAiNrfBYWAOK0eOZ4w/viewform)
 [![Meetup.com](https://img.shields.io/badge/Meetup.com-blue)](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
+[![Youtube](https://img.shields.io/badge/slack-ods.ai-orange)](https://www.youtube.com/playlist?list=PLraBn3TuBq-_Dv7hfptCq1IhbTAivy6Gr)
 
 </div>
   
