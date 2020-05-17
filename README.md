@@ -24,10 +24,10 @@ All lectures will be covered by tutors with the practical experience from Reacto
 4. Logistic Regression, 15.04.2020
 5. Ensembles and Random Forest 22.04.2020
 6. Logistic Regression 30.04.2020
-7. Unsupervised Learning: Principal Component Analysis and Clustering 06.04.2020
-8. Time Series Analysis with Python
-9. SGD with Vowpal Wabbit
-10. Gradient Boosting and CatBoost
+7. Unsupervised Learning: Principal Component Analysis and Clustering 06.05.2020
+8. Gradient Descent and SGD 13.05.2020
+9. Time Series Analysis with Python 20.05.2020
+10. Gradient Boosting and CatBoost 27.05.2020
 
 ### Video Recordings:
 
@@ -53,7 +53,7 @@ A6. Ensembles, bagging, Random Forest 31.04.2020
 
 A7. Kaggle competition #2 06.06.2020
 
-A8.
+A8. SGD 23.05.2020
 
 A9. 
 
