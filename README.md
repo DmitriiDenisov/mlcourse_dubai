@@ -16,6 +16,7 @@ This is repository with all meterials for ML course in Dubai which is held in sp
 The course starts on 19th of February. The event will be hold by Hult International Business School.
 All lectures will be covered by tutors with the practical experience from Reactor, FICO, Deloitte, VISA, American University of Sharjah.
 
+
 ### Schedule of Lectures
 0. Introduction, 19.02.2020
 1. Exploratory Data Analysis with Pandas, 25.03.2020
