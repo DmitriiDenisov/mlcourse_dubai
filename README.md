@@ -54,7 +54,7 @@ A6. Ensembles, bagging, Random Forest 31.04.2020
 
 A7. Kaggle competition #2 06.06.2020
 
-A8. SGD 23.05.2020
+A8. SGD 26.05.2020
 
 A9. 
 
